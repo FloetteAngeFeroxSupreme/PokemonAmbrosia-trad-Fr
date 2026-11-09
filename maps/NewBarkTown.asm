@@ -314,26 +314,28 @@ Text_YourMonIsAdorable:
 	done
 
 Text_TellMomIfLeaving:
-	text "Hi, <PLAY_G>!"
-	line "Leaving again?"
+	text "Salut, <PLAY_G>!"
+	line "Tu part déjà?"
 
-	para "You should see"
-	line "your Mum one"
-	cont "last time."
+	para "Tu devrai aller"
+	line "voir ta mère"
+	cont "une dernière"
+	cont "fois"
 	done
 
 Text_ElmDiscoveredNewMon:
-	text "Hi, <PLAYER>!"
+	text "Salut, <PLAYER>!"
 
-	para "I remember when"
-	line "your Dad left"
-	cont "for his #mon"
-	cont "training."
+	para "Je me souvient"
+	line "quand ton père"
+	para "est parti pour"
+	line "entrainer son"
+	cont "#mon"
 
-	para "He was strong!"
+	para "Il était fort!"
 
-	para "He caught a"
-	line "raging Ursaring."
+	para "Il a capturé un"
+	line "ursaring enragé."
 
 	para "He can take care"
 	line "of himself."
