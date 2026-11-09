@@ -258,53 +258,59 @@ NewBarkTown_RivalReturnsToTheShadowsMovement:
 	step_end
 
 Text_GearIsImpressive:
-	text "I tried being a"
-	line "trainer once."
+	text "J'ai déjà assayé "
+	line "de devenir"
+	cont "un dresseur"
 
-	para "But I ran into"
-	line "a huge Raticate"
-	cont "out there."
+	para "Mais j'ai foncé"
+	line "un énorme Ratatac"
+	cont "en dehors d'ici"
 
-	para "I ran for it!"
+	para "J'ai donc couru"
 
-	para "You can run by"
-	line "holding B."
+	para "Tu peut courrire"
+	line "en maintenant B."
 
-	para "Unless you have"
-	line "Sport Shoes, then"
-	cont "you can run by"
-	cont "default."
+	para "Sauf si vous"
+	line "avez les"
+	cont "chaussures de"
+	cont "course."
+
+	para "Tu courras"
+	count "automatiquement"
 	done
 
 Text_SafeWithYou:
-	text "Hello Champion"
+	text "Bonjour Maitre"
 	line "<PLAYER>!"
-	para "You make me so"
-	line "proud to be from"
-	cont "New Bark Town."
-	para "I feel safe with"
-	line "you here."
+	para "Tu me rend si fier"
+	line "d'être née à"
+	cont "Bourg Geon."
+	para "Je me sent en"
+	line "sécurité avec"
+	count "toi ici"
 	done
 
 Text_WaitPlayer:
-	text "Wait, <PLAY_G>!"
+	text "Attends, <PLAY_G>!"
 	done
 
 Text_WhatDoYouThinkYoureDoing:
-	text "What do you think"
-	line "you're doing?"
+	text "Qu'est-ce que tu"
+	line "fais?"
 	done
 
 Text_ItsDangerousToGoAlone:
-	text "It's dangerous to"
-	line "go out without a"
+	text "C'est dangereux"
+	line "de sortir sans un"
 	cont "#mon!"
 	done
 
 Text_YourMonIsAdorable:
-	text "Oh! Your #mon"
-	line "looks strong!"
-	cont "I wish I had one!"
+	text "Oh! Ton #mon"
+	line "semble puissant!"
+	cont "J'aimerai en"
+	cont "avoir un!"
 	done
 
 Text_TellMomIfLeaving:
