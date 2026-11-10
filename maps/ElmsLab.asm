@@ -1065,70 +1065,73 @@ ElmBeatRocketsText:
 	done
 
 ElmStandardText:
-	text "It's a wonderful"
-	line "thing to be a"
-	cont "#mon trainer."
-	para "But not all"
-	line "trainers are good."
-	para "Put your faith in"
-	line "your #mon and"
-	cont "yourself."
-	para "You know right"
-	line "from wrong"
+	text "C'est merveilleux"
+	line "d'être un dresseur"
+	cont "#mon."
+	para "Mais tous les"
+	line "dresseurs ne sont"
+	cont "pas gentils."
+	para "Aie confiance en"
+	line "toi et en ton"
+	cont "#mon." 
+	para "Tu sais"
+	line "différencier le"
+	cont "bien et le mal"
 	cont "<PLAYER>."
 	done
 
 ElmText_ThisIsCynthia:
-    text "Let me introduce"
-    line "you."
+    text "Laisse moi te"
+    line "présenter."
 
-    para "This is Cynthia."
+    para "Voici Cynthia."
 
-    para "She is Champion"
-    line "of the Sinnoh"
-    cont "region."
+    para "Elle est Maître"
+    line "de la région"
+    cont "de Sinnoh."
     done
 
 ElmsLabCynthiaIntroText:
-    text "Hello <PLAYER>."
+    text "Salut <PLAYER>."
 
-    para "Prof Elm has told"
-    line "me today you have"
-    cont "chosen to begin"
-    cont "your #mon"
-    cont "training."
+	para "Le prof Orme m'a"
+	line "dit que tu avais"
+	cont "choisi de"
+	cont "commencer ta"
+	cont "carrière de"
+	cont "dresseur #mon."
 
-    para "I envy you."
+    para "Je t'envie."
 
-    para "To experience it"
-    line "all again for the"
-    cont "first time."
+	para "Tout revivre"
+	line "comme si c'était"
+	cont "la première fois"
 
-    para "You have a great"
-    line "adventure ahead"
-    cont "of you."
+	para "tu as une grande"
+	line "aventure qui"
+	cont "t'attend."
 
-    para "And a big"
-    line "responsibility."
+	para "Et une grande"
+	line "responsabilitée."
 
-    para "People need strong"
-    line "trainers to give"
-    cont "them hope in these"
-    cont "fractious times."
+	para "Les gens ont"
+	line "bsoin de"
+	cont "dresseurs forts"
+	cont "en ces temps de"
+	cont "discorde."
     done
 
 ElmsLabCynthiaByeElmText:
-    text "I must take my"
-    line "leave now."
+    text "Je dois partir"
+    line "maintenenant."
 
-    para "There is much"
-    line "to be done."
+    para "j'ai tant à faire."
 
-    para "Thank you for"
-    line "your help Prof."
+    para "Merci pour ton"
+    line "aide Prof."
 
-    para "There may be"
-    line "hope yet."
+    para "Il reste peut-"
+    line "être de l'espoir."
     done
 
 ElmsLabElmStevenText:
@@ -1151,35 +1154,37 @@ ElmsLabElmStevenText:
     done
 
 ElmsLabCynthiaResolveText:
-    text "I know he lives."
+    text "Je sais qu'il est"
+	line "toujour en vie."
 
-    para "I will find him."
+    para "je le trouverais."
     done
 
 ElmsLabCynthiaGoodluckText:
-    text "Enjoy your"
-    line "adventure."
+    text "Profite de ton"
+    line "aventure."
 
-    para "No matter which"
-    line "#mon you choose"
-    cont "it will serve you"
-    cont "well and become a"
-    cont "life long friend."
+    para "peut importe quel"
+    line "#mon tu as"
+	cont "choisis, il te"
+	cont "servira beaucoup"
+	cont "et deviendra ton"
+	cont "ami de toujours."
 
-    para "Good luck."
+    para "Bonne chance."
     done
-
 
 ElmText_Intro:
 	text "Ah <PLAYER>"
-	line "good to see you!"
+	line "ravi de te voir !"
 
-	para "Today is your big"
-	line "day!"
+	para "Aujourd'hui est le"
+	line "grand jour !"
 
-	para "Sorry I was just"
-	line "finishing up"
-	cont "here."
+	para "Désolé, je"
+	line "terminais juste"
+	cont "ce que je faisais"
+	cont "ici."
 	done
 
 ElmText_ResearchAmbitions:
