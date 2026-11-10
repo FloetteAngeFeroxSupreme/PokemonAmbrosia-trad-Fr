@@ -368,14 +368,15 @@ Text_FisherLossReport:
 	done
 
 NewBarkTownRivalNotThatOneText:
-    text "You think that one"
-    line "was the strongest?"
+    text "Tu pense que c'est"
+    line "le plus fort?"
 
-    para "You are as useless"
-    line "as that #mon."
+    para "Tu est aussi"
+    line "inutile que ce"
+	cont "#mon."
 
-    para "I'll have to do"
-    line "this myself."
+    para "Je vais devoir"
+    line "le faire moi-même."
 
     para "Get lost kid!"
     done
