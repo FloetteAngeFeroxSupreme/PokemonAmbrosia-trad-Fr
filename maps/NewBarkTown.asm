@@ -263,16 +263,17 @@ Text_GearIsImpressive:
 	cont "un dresseur"
 
 	para "Mais j'ai foncé"
-	line "un énorme Ratatac"
-	cont "en dehors d'ici"
+	line "dans un énorme"
+	cont "Ratatac en dehors"
+	cont "du village."
 
 	para "J'ai donc couru"
 
 	para "Tu peut courrire"
 	line "en maintenant B."
 
-	para "Sauf si vous"
-	line "avez les"
+	para "Sauf si tu"
+	line "as les"
 	cont "chaussures de"
 	cont "course."
 
@@ -335,17 +336,17 @@ Text_ElmDiscoveredNewMon:
 	para "Il était fort!"
 
 	para "Il a capturé un"
-	line "ursaring enragé."
+	line "Ursaring enragé."
 
 	para "Il peut prendre"
 	line "soin de lui."
 	done
 
 Text_FishBeatE4:
-	text "Wow <PLAYER> you"
-	line "are the Champion!"
-	para "Your dad is so"
-	line "proud."
+	text "Ouah <PLAYER> tu"
+	line "est le Maitre!"
+	para "Ton père est si"
+	line "fière de toi."
 	para "You are way"
 	line "stronger than he"
 	cont "could ever be!"
