@@ -1,54 +1,56 @@
 NurseMornText:
-	text "Good morning!"
-	line "Welcome to our"
-	cont "#mon Center."
+	text "Bonjour !"
+	line "Bienvenue au"
+	cont "Centre #mon."
 	done
 
 NurseDayText:
-	text "Hello!"
-	line "Welcome to our"
-	cont "#mon Center."
+	text "Bonjour !"
+	line "Bienvenue au"
+	cont "Centre #mon."
 	done
 
 NurseEveText:
-	text "Good evening!"
-	line "Welcome to our"
-	cont "#mon Center."
+	text "Bonne soirée !"
+	line "Bienvenue au"
+	cont "Centre #mon."
 	done
 
 NurseNiteText:
-	text "Good evening!"
-	line "You're out late."
+	text "Bonne nuit !"
+	line "Il se fait tard"
 
-	para "Welcome to our"
-	line "#mon Center."
+	line "Bienvenue au"
+	cont "Centre #mon.""
 	done
 
 NurseChampText:
-	text "Ah Champion"
-	line "<PLAYER> it is an"
-	cont "honor."
-	para "Please let me heal"
-	line "your #mon."
+	text "Ah Maitre"
+	line "<PLAYER> c'est un"
+	cont "honeur."
+	para "Laisser moi"
+	line "soigner vos"
+	cont "#mon"
 	done
 
 NurseInvadeText:
-	text "Oh my!"
-	para "Please don't hurt"
-	line "anyone!"
-	para "I..."
-	para "I'll heal your"
-	line "#mon."
+	text "Oh non!"
+	para "S'il vous plaît,"
+	line "ne blessser"
+	cont "personnes"
+	para "J..."
+	para "Je vais soigner"
+	line "vos #mon."
 	done
 
 NurseLordText:
-	text "My..."
-	para "My Lord, I am not"
-	line "worthy."
-	para "I am moved to be"
-	line "granted the"
-	cont "privilege of"
-	cont "healing your"
+	text "Mon..."
+	para "Mon Dieu, je ne"
+	line "suis pas digne."
+	para "je suis touché"
+	line "d'être élevé"
+	cont "au privilège de"
+	cont "soigner vos"
 	cont "#mon."
 	done
 
@@ -84,30 +86,29 @@ PokeComNurseNiteText:
 	done
 
 NurseAskHealText:
-	text "We can heal your"
-	line "#mon to perfect"
-	cont "health."
+	text "Je peut soigner"
+	line "vos #mon"
 
-	para "Shall we heal your"
+	para "Puis je voir vos"
 	line "#mon?"
 	done
 
 NurseTakePokemonText:
-	text "OK, may I see your"
+	text "Puis je voir vos"
 	line "#mon?"
 	done
 
 NurseReturnPokemonText:
-	text "Thank you for"
-	line "waiting."
+	text "Merci de votre"
+	line "patience."
 
-	para "Your #mon are"
-	line "fully healed."
+	para "Vos #mon sont"
+	line "en pleine forme."
 	done
 
 NurseGoodbyeText:
-	text "We hope to see you"
-	line "again."
+	text "Nous esperons vous"
+	line "revoir bientôt."
 	done
 
 ; not used
