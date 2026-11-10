@@ -347,14 +347,16 @@ Text_FishBeatE4:
 	line "est le Maitre!"
 	para "Ton père est si"
 	line "fière de toi."
-	para "You are way"
-	line "stronger than he"
-	cont "could ever be!"
+	para "Tu est bien plus"
+	line "fort qu'il ne"
+	cont "pourrait jamais"
+	cont "être"
 	done
 
 Text_FisherLossReport:
-	text "Not like me."
-	line "I always lose."
+	text "Pas comme moi."
+	line "Je perd tout le"
+	cont "temps."
 
 	para "I can tell you"
 	line "have lost"
