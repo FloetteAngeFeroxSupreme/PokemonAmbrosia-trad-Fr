@@ -611,7 +611,7 @@ AideText_ExplainNGP:
 	para "Mais the monde"
 	line "est different!"
 	para "Ta limite de"
-	line "niveau est déjà
+	line "niveau est déjà"
 	cont "au max."
 	para "Mais le reste du"
 	cont "monde doit"
@@ -1017,23 +1017,26 @@ ElmBeatWallaceText:
 	cont "honnoré de t'avoir"
 	cont "vu grandir et de"
 	cont "t'avoir présenté"
-	cont "premier #mon"
+	cont "premier #mon."
 	para "Ne t'arrête jamais"
 	line "d'apprendre et de"
 	cont "et de grandir."
 	done
 
 ElmBeatEliteFourText:
-	text "I can not believe"
-	line "you are the first"
-	cont "Champion of Johto."
-	para "That kind of makes"
-	line "you my boss!"
-	para "The world needs"
-	line "people like you."
-	para "Your Mum and Dad"
-	line "need you too."
-	para "Good luck"
+	text "Je ne peut pas"
+	line "croire que tu"
+	cont "soit le premier"
+	cont "Maitre de Jotho."
+	para "Cela fait de toi"
+	line "un peu mon boss !"
+	para "Le monde a besoin"
+	line "de personnes"
+	cont "comme toi."
+	para "Ta mère et ton"
+	line "père ont aussi
+	cont "besoin de toi."
+	para "Bonne chance"
 	line "<PLAYER>."
 	done
 
