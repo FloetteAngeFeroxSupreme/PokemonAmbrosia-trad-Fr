@@ -358,13 +358,13 @@ Text_FisherLossReport:
 	line "Je perd tout le"
 	cont "temps."
 
-	para "I can tell you"
-	line "have lost"
+	para "Je peut dire que"
+	line "tu as perdu"
 	cont "@"
 	text_ram wStringBuffer3
-	text " battles."
+	text " combats."
 
-	para "Keep it up!"
+	para "Tient bon!"
 	done
 
 NewBarkTownRivalNotThatOneText:
