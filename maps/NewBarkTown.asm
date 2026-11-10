@@ -337,8 +337,8 @@ Text_ElmDiscoveredNewMon:
 	para "Il a capturé un"
 	line "ursaring enragé."
 
-	para "He can take care"
-	line "of himself."
+	para "Il peut prendre"
+	line "soin de lui."
 	done
 
 Text_FishBeatE4:
