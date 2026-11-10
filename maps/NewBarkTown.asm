@@ -378,48 +378,50 @@ NewBarkTownRivalNotThatOneText:
     para "Je vais devoir"
     line "le faire moi-même."
 
-    para "Get lost kid!"
+    para "Dégage, gamin !"
     done
 
 NewBarkTownRivalText1:
 	text "<……>"
 
-	para "Look at those"
+	para "Regardes ces"
 	line "#mon!"
 	done
 
 NewBarkTownRivalText2:
-	text "Hey how would"
-	line "like to help me!"
+	text "Salut, ça te dirait"
+	line "De m'aider!"
 
-	para "Bring me one of"
-	line "those #mon."
+	para "Apporte moi un de"
+	line "ces #mon."
 
-	para "Be sure to pick"
-	line "the one that looks"
-	cont "the strongest."
+	para "Soit sur de"
+	line "prendre le plus"
+	cont "fort."
 
-	para "Now go!"
+	para "Maintenant vas-y!"
 	done
 
 NewBarkTownSignText:
-	text "New Bark Town"
+	text "Bourg Geon"
 
-	para "The Town Where the"
-	line "Winds of a New"
-	cont "Beginning Blow"
+	para "La Ville où"
+	line "souffle le vent"
+	cont "du renouveau"
 	done
 
 NewBarkTownPlayersHouseSignText:
-	text "<PLAYER>'s House"
+	text "Maison de <PLAYER>"
 	done
 
 NewBarkTownElmsLabSignText:
-	text "Elm #mon lab"
+	text "Laboratoire du"
+	line "Prof. Orme.
 	done
 
 NewBarkTownElmsHouseSignText:
-	text "Elm's House"
+	text "Maison du"
+	line "Prof. Orme."
 	done
 
 NeedToGetAPokemon:
@@ -441,9 +443,9 @@ NeedToGetAPokemon2:
     end
 
 NewBarkTownBlockText:
-    text "I need to get"
-    line "a #mon from"
-    cont "Prof.Elm!"
+    text "Je doit récupérer"
+    line "un #mon chez"
+    cont "le Prof. Orme!"
     done
 
 ElmsMission:
@@ -456,8 +458,9 @@ ElmsMission:
     end
 
 ElmsMissionText:
-    text "I better see"
-    line "Prof.Elm!"
+    text "Je devrai aller"
+    line "voir le"
+	cont "Prof. orme !"
     done
 
 Movement_NewBarkTownTurnBack:
@@ -509,22 +512,22 @@ NewBarkTownRepulsorText:
     done
 
 NewBarkTownGotRepelsText:
-    text "#mon are"
-    line "friends."
+    text "Les #mon sont"
+    line "tes amis."
 
-    para "But some can be"
-    line "dangerous."
+    para "Mais certains"
+    line "sont dangereux."
 
-    para "You should always"
-    line "be prepared."
+    para "Tu doit toujours"
+    line "être préparé."
 
-    para "Repulsor will"
-    line "keep weaker"
-    cont "#mon away."
+    para "Repulsor tiendra"
+    line "les #mon"
+    cont "faible à distance"
 
-    para "You can turn it"
-    line "on or off in the"
-    cont "key items menu."
+    para "Tu peut l'allumer"
+    line "ou l'éteindre"
+    cont "dans key items."
     done
 
 CrystalScript1:
@@ -597,9 +600,9 @@ NewBarkTownMovement_PlayerUpAndRight:
     step_end
 
 Crystal1_WaitUpText:
-    text "Hey!"
+    text "Salut!"
 
-    para "Wait up."
+    para "Attends un peu."
     done
 
 NewBarkTownMovement_CrystalApproaches:
@@ -611,8 +614,9 @@ NewBarkTownMovement_CrystalApproaches:
     step_end
 
 Crystal1_ChallengeText:
-    text "You just got a"
-    line "#mon!"
+    text "Tu vient juste de "
+    line "recevoir un"
+	cont "#mon"
 
     para "I recently got"
     line "my first #mon"
