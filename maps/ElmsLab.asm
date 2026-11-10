@@ -514,25 +514,26 @@ AideScript_GivePotion:
 	end
 
 AideText_GiveGiftOfGod:
-	text "Wait..."
-	para "You have been here"
-	line "before."
-	para "Events are"
-	line "unfolding again."
-	para "But the world is"
-	line "different now."
-	para "May the blessings"
-	line "of Arceus guide"
-	cont "your new journey."
+	text "Attends..."
+	para "Tu es déjà venu"
+	line "avant."
+	para "Tout ce qui s'est"
+	line "passé recommence."
+	para "mais le monde est"
+	line "différent."
+	para "Qu'Arceus guide"
+	line "ta nouvelle"
+	cont "aventure."
 	done
 
 AideText_GivenGiftOfGod:
-	text "With this you can"
-	line "max out a #mon"
-	cont "instantly."
-	para "You can build an"
-	line "empire of #mon"
-	cont "with it!"
+	text "Avec cet objet tu"
+	line "peux max les stat
+	cont "d'un #mon 
+	line "insantanément"
+	para "Tu vas pouvoir"
+	line "fonder l'empire"
+	cont "of #mon avec !"
 	done
 
 AideScript_GivePocketPC:
@@ -604,21 +605,24 @@ AideScript_GiveYouBalls:
 	end
 
 AideText_ExplainNGP:
-	text "This isn't your"
-	line "first time doing"
-	cont "this."
-	para "But the world is"
-	line "different now!"
-	para "Your level caps"
-	line "are maxed but the"
-	cont "rest of the world"
-	cont "might have that"
-	cont "too."
-	para "Be sure to check"
-	line "out the Marts,"
-	cont "they may have"
-	cont "items to help you."
-	para "Good luck!"
+	text "Ce n'est pas la"
+	line "première fois que"
+	cont "tu viens là"
+	para "Mais the monde"
+	line "est different!"
+	para "Ta limite de"
+	line "niveau est déjà
+	cont "au max."
+	para "Mais le reste du"
+	cont "monde doit"
+	cont "l'avoir aussi"
+	para "Pour en être sûr"
+	line "va vérifier les"
+	cont "Magasins, ils ont"
+	cont "peut être des"
+	cont "objets pour"
+	cont "t'aider."
+	para "Bonne chance !"
 	done
 
 AideScript_ReceiveTheBalls:
@@ -791,9 +795,10 @@ CheatCodeRepo:
     end
 
 CheatCodeRepoText:
-    text "Cheat codes you"
-    line "unlock will be"
-    cont "displayed here."
+    text "Les Code de"
+    line "Triche débloquées"
+    cont "seront affichées"
+	cont "ici."
     done
 
 GiftOfGodCodeText:
@@ -813,32 +818,32 @@ HandOfGodCodeText:
 
 MasterBallCodeText:
     text "CatchEmAll"
-    line "99 Master Balls."
+    line "99 Masters Balls."
     prompt
 
 WarpCodeText:
     text "MakeItSo"
-    line "Warp menu."
+    line "Menu Téléport."
     prompt
 
 DoubleExpCodeText:
     text "SpeedRun"
-    line "Double Exp gain."
+    line "Double gain exp."
     prompt
 
 RandomPartyCodeText:
     text "Stochastic"
-    line "Random Lv5 party."
+    line "Equipe aléa Nv5."
     prompt
 
 DesignateCodeText:
     text "Designate"
-    line "Rename rivals."
+    line "Renomer rival."
     prompt
 
 ArceusCodeText:
     text "Omnipotent"
-    line "Obtain Arceus."
+    line "Obtenir Arceus."
     prompt
 
 ElmsLab_WalkUpToElmMovement:
@@ -998,23 +1003,24 @@ ElmsLabMovement_ElmReturns:
     step_end
 
 ElmBeatWallaceText:
-	text "<PLAYER> you have"
-	line "become the"
-	cont "strongest trainer"
-	cont "in the world and a"
-	cont "hero that has"
-	cont "saved all of us"
-	cont "from a life of"
-	cont "war."
-	para "I am deeply"
-	line "honoured to have"
-	cont "watched you grow"
-	cont "up and presented"
-	cont "you with your"
-	cont "first #mon."
-	para "Never stop"
-	line "learning and"
-	cont "growing."
+	text "<PLAYER> tu es"
+	line "devenu le"
+	cont "dresseur le plus"
+	cont "fort que le monde"
+	cont "ait connu."
+	para "Tu es aussi le"
+	line "héros qui nous a"
+	cont "tous sauvé de la"
+	cont "guerre."
+	para "Je suis"
+	line "sincèrement"
+	cont "honnoré de t'avoir"
+	cont "vu grandir et de"
+	cont "t'avoir présenté"
+	cont "premier #mon"
+	para "Ne t'arrête jamais"
+	line "d'apprendre et de"
+	cont "et de grandir."
 	done
 
 ElmBeatEliteFourText:
