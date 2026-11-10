@@ -1,3 +1,7 @@
-# Bienvenue dans la trduction de Pokémon Ambrosia
-Vous êtes les bienvenue pour m'aider si vous avez le temps.
-Le jeu originel est par DrUltimaMan
+# Bienvenue dans la traduction fraçaies de Pokémon Ambrosia
+Vous êtes les bienvenus pour m'aider si vous avez le temps.
+La rom hack originelle est de DrUltimaMan
+
+**Contibuteurs actuels :**
+- FloetteAngeFeroxSupreme
+- amiralmonbrave
