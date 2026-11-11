@@ -1188,161 +1188,176 @@ ElmText_Intro:
 	done
 
 ElmText_ResearchAmbitions:
-	text "There is a lot"
-	line "going on in the"
-	cont "world."
+	text "Il se passe"
+	line "beaucoup de"
+	cont "choses dans le"
+	cont "monde."
 
-	para "As you know"
-	line "better than most."
+	para "Tu le sais mieux"
+	line "que la plupart
+	cont "des gens."
 
-	para "I'm sorry about"
-	line "your father."
+	para "Je suis désolé"
+	line "pour ton père."
 
-	para "But Cynthia is"
-	line "right!"
+	para "Mais Cynthia a"
+	line "raison !"
 
-	para "You are about to"
-	line "start a great big"
-	cont "adventure."
+	para "Tu es sur le"
+	line "point de"
+	cont "commencer une"
+	cont "grande aventure."
 
-	para "Now let's choose"
-	line "your partner on"
-	cont "this journey."
+	para "Il est l'heure"
+	line "maintenant de"
+	cont "choisir ton"
+	cont "partenaire."
 	done
 
-
 ElmText_ChooseAPokemon:
-	text "I want you to"
-	line "raise one of the"
+	text "Je veux que tu"
+	line "élève un de ces"
+	papa "#mon contenus"
+	line "dans ces balles."
 
-	para "#mon contained"
-	line "in these balls."
+	para "Tu sera son"
+	line "premier"
+	cont "partenaire,
+	cont "<PLAY_G> !"
 
-	para "You'll be that"
-	line "#mon's first"
-	cont "partner, <PLAY_G>!"
-
-	para "Go on. Pick one!"
+	para "Vas-y.
+	line "Prends en un !"
 	done
 
 ElmText_LetYourMonBattleIt:
-	text "If a wild #mon"
-	line "appears, let your"
-	cont "#mon battle it!"
+	texe "si un #mon"
+	line "sauvage apparait,"
+	cont "laisse ton"
+	cont "#mon le"
+	cont "combattre !"
 	done
 
 LabWhereGoingText:
-	text "Wait! Where"
-	line "are you going?"
+	text "Attends ! Où vas"
+	line "tu ?"
 	done
 
 TakeCyndaquilText:
-	text "You'll take"
-	line "Chimchar, the"
-	cont "Fire #mon?"
+	text "Veux-tu"
+	line "Ouisticram, le"
+	cont "#mon de feu ?"
 	done
 
 TakeTotodileText:
-	text "Do you want"
-	line "Froakie, the"
-	cont "Water #mon?"
+	text "Veux-tu"
+	line "Grenousse, le"
+	cont "#mon d'eau ?"
 	done
 
 TakeChikoritaText:
-	text "So, you like"
-	line "Treecko, the"
-	cont "Grass #mon?"
+	text "Veux-tu"
+	line "Arcko, le #mon"
+	cont "plante ?"
 	done
 
 DidntChooseStarterText:
-	text "Think it over"
-	line "carefully."
+	text "Réfléchis-y bien."
 
-	para "Your partner is"
-	line "important."
+	para "Ton partenaire"
+	line "est inportant."
 	done
 
 ChoseStarterText:
-	text "I think"
-	line "that's a great"
-	cont "#mon too!"
+	text "Je pense aussi"
+	line "que c'est un bon"
+	cont "#mon !"
 	done
 
 ReceivedStarterText:
-	text "<PLAYER> received"
+	text "<PLAYER> reçoit"
 	line "@"
 	text_ram wStringBuffer3
-	text "!"
+	text " !"
 	done
 
 ElmDirectionsText1:
-	text "Prof Oak is"
-	line "visiting a friend"
-	cont "just north of"
-	cont "Cherrygrove."
+	text "Le Prof Chen est"
+	line "en visite chez un"
+	cont "ami au nord de"
+	cont "Ville Griotte."
 
-	para "He has sensitive"
-	line "information just"
-	cont "for you."
+	para "Il a des"
+	line "informations"
+	cont "sensibles juste"
+	cont "pour toi."
 	done
 
 ElmDirectionsText2:
-	text "If your #mon"
-	line "are hurt you can"
-	cont "heal them with"
-	cont "this machine."
-	para "My aide has a"
-	line "Pocket PC you can"
-	cont "use to heal your"
-	cont "#mon anywhere."
+	text "Si tes #mon"
+	line "sont blessés, tu"
+	cont "peux les soigner"
+	cont "avec cette"
+	cont "machine."
+	para "Mon assistant a"
+	line "un PC Portable."
+	para "tu peux"
+	line "l'utiliser pour"
+	cont "soigner tes"
+	cont "#mon n'importe"
+	cont "où."
 	done
 
 ElmDirectionsText3:
-	text "<PLAY_G>, I'm"
-	line "counting on you!"
+	text "<PLAY_G>, je"
+	line "compte sur toi !"
 	done
 
 ElmAskCrystalNameText:
-	text "Your friend was"
-	line "asking about you."
+	text "Ton amie voulait"
+	line "prendre des"
+	cont "nouvelles de toi."
 
-	para "What is it you"
-	line "call her again?"
+	para "Comment s'appelle-"
+	line "t-elle déjà ?"
 	done
 
 ConfirmCrystalText:
-    text "Ah yes <GREEN>"
-    line "is out looking"
-    cont "for you."
+    text "Ah oui <GREEN>,"
+    line "elle te"
+	cont "cherchait."
     done
 
 GotElmsNumberText:
-	text "<PLAYER> got Elm's"
-	line "phone number."
+	text "<PLAYER> recoit le"
+	line "numéro de tél du"
+	cont "Prof Orme."
 	done
 
 ElmDescribesMrPokemonText:
-	text "Prof Oak is a"
-	line "famous Professor"
-	cont "from Kanto."
+	text "Le Prof Chen est"
+	line "un Professeur"
+	cont "reconnu de Kanto."
 
-	para "He used to be a"
-	line "trainer and is"
-	cont "researching ways"
-	cont "to make trainers"
-	cont "stronger."
+	para "Il étais avant un"
+	line "dresseur, et il"
+	cont "cherche"
+	cont "aujourd'hui"
+	cont "comment rendre"
+	cont "les dresseurs"
+	cont "plus forts."
 
-	para "He is visiting"
-	line "MR.#mon who"
-	cont "is a secret agent."
+	para "Il est en visite"
+	line "chez M.#mon"
+	cont "qui est un agent"
+	cont "secret."
 
-	para "He can be a bit"
-	line "paranoid."
+	para "Il peut être un"
+	line "peu paranoïaque."
 	done
 
 ElmPokeBallText:
-	text "A #mon"
-	line "caught by Elm."
+	text "Un #mon"
+	line "capturé par Orme."
 	done
 
 ElmsLabHealingMachineText1:
