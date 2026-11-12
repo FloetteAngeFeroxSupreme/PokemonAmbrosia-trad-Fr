@@ -47,7 +47,7 @@ NurseLordText:
 	text "Mon..."
 	para "Mon Dieu, je ne"
 	line "suis pas digne."
-	para "je suis touché"
+	para "Je suis touché"
 	line "d'être élevé"
 	cont "au privilège de"
 	cont "soigner vos"
@@ -117,66 +117,64 @@ NurseGoodbyeText:
 	done
 
 NursePokerusText:
-	text "Your #mon"
-	line "appear to be"
+	text "Votre #mon"
+	line "semble avoir été"
 
-	para "infected by tiny"
-	line "life forms."
+	para "infecté par des"
+	line "organismes."
 
-	para "Your #mon are"
-	line "healthy and seem"
-	cont "to be fine."
+	para "Votre #mon est"
+	line "soigné et semble"
+	cont "bien aller."
 
-	para "But we can't tell"
-	line "you anything more"
+	para "Mais je ne peut"
+	line "vous dire de"
 
-	para "at a #mon"
-	line "Center."
+	para "plus au Centre"
+	line "#mon."
 	done
 
 PokeComNursePokerusText:
-	text "Your #mon"
-	line "appear to be"
+	text "Votre #mon"
+	line "semble avoir été"
 
-	para "infected by tiny"
-	line "life forms."
+	para "infecté par des"
+	line "organismes."
 
-	para "Your #mon are"
-	line "healthy and seem"
-	cont "to be fine."
-
-	para "But we can't tell"
-	line "you anything more."
+	para "Votre #mon est"
+	line "soigné et semble"
+	cont "bien aller."
 	done
 
 DifficultBookshelfText:
-	text "It would take long"
-	line "time to read all"
-	cont "this stuff."
+	text "Cela prendra du"
+	line "temps de tout"
+	cont "lire."
 	done
 
 PictureBookshelfText:
-	text "A whole collection"
-	line "of #mon picture"
-	cont "books!"
+	text "Une colection"
+	line "entière de livre"
+	cont "d'imge #mon."
 	done
 
 MagazineBookshelfText:
-	text "Lots of vapid"
-	line "colourful"
-	cont "#mon books."
+	text "Plein d'enuyants "
+	line "livre colorés"
+	cont "sur les #mon."
 	done
 
 TeamRocketOathText:
-	text "Team Rocket Oath"
+	text "Serment de la" 
+	line "Team Rocket"
 
-	para "Steal"
+	para "Vole"
 
-	para "Exploit"
+	para "Exploite"
 
 	para "???"
 
-	para "Profit!"
+	para "Profite !"
 	done
 
 IncenseBurnerText:
