@@ -3,6 +3,6 @@ Vous êtes les bienvenus pour m'aider si vous avez le temps.
 La rom hack originelle est de DrUltimaMan
 
 **Contibuteurs actuels :**
-- FloetteAngeFeroxSupreme
+- FloetteAngeFeroxSupreme / Maréchal_monbrave
 - amiralmonbrave
 - counouvan (bientôt ?)
