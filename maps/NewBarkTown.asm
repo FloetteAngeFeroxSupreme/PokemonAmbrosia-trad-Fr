@@ -519,8 +519,8 @@ NewBarkTownGotRepelsText:
     para "Tu dois toujours"
     line "être préparé."
 
-    para "Les Repulseurs"
-	line "tiendront les" 
+    para "Le Repulseur"
+	line "tiendra les" 
 	cont "#mon faible à distance"
 
     para "Tu peut l'allumer"
@@ -616,27 +616,28 @@ Crystal1_ChallengeText:
     line "recevoir un"
 	cont "#mon."
 
-    para "I recently got"
-    line "my first #mon"
-    cont "too."
+    para "Moi aussi j'ai"
+    line "eu mon premier"
+    cont "#mon."
 
-    para "My Dad gave it"
-    line "to me."
+    para "Mon père me l'a"
+    line "donné."
 
-    para "Well you know what"
-    line "we have to do now."
+    para "Tu sait ce que"
+    line "nous allons"
+    cont "faire."
 
-    para "Let's battle?"
+    para "Combatons ?"
     done
 
 Crystal1LosesText:
-    text "Aww you did"
-    line "well Riolu."
+    text "Oh tu t'es bien"
+    line "battu Riolu."
     done
 
 Crystal1WinsText:
-    text "You did really"
-    line "well."
+    text "Tu t'es bien"
+    line "battu."
     done
 
 Crystal1_WellDoneText:
