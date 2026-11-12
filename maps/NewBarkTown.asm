@@ -258,18 +258,18 @@ NewBarkTown_RivalReturnsToTheShadowsMovement:
 	step_end
 
 Text_GearIsImpressive:
-	text "J'ai déjà assayé "
-	line "de devenir"
-	cont "un dresseur"
+	text "J'ai déjà essayé"
+	line "de devenir un"
+	cont "dresseur."
 
 	para "Mais j'ai foncé"
 	line "dans un énorme"
 	cont "Ratatac en dehors"
 	cont "du village."
 
-	para "J'ai donc couru"
+	para "Donc j'ai couru"
 
-	para "Tu peut courrire"
+	para "Tu peut courrir"
 	line "en maintenant B."
 
 	para "Sauf si tu"
@@ -278,62 +278,61 @@ Text_GearIsImpressive:
 	cont "course."
 
 	para "Tu courras"
-	count "automatiquement"
+	cont "automatiquement"
 	done
 
 Text_SafeWithYou:
 	text "Bonjour Maitre"
-	line "<PLAYER>!"
+	line "<PLAYER> !"
 	para "Tu me rend si fier"
 	line "d'être née à"
 	cont "Bourg Geon."
 	para "Je me sent en"
 	line "sécurité avec"
-	count "toi ici"
+	cont "toi ici."
 	done
 
 Text_WaitPlayer:
-	text "Attends, <PLAY_G>!"
+	text "Attends, <PLAY_G> !"
 	done
 
 Text_WhatDoYouThinkYoureDoing:
-	text "Qu'est-ce que tu"
-	line "fais?"
+	text "Que fais tu ?"
 	done
 
 Text_ItsDangerousToGoAlone:
 	text "C'est dangereux"
 	line "de sortir sans un"
-	cont "#mon!"
+	cont "#mon !"
 	done
 
 Text_YourMonIsAdorable:
-	text "Oh! Ton #mon"
-	line "semble puissant!"
+	text "Oh ! Ton #mon"
+	line "semble puissant !"
 	cont "J'aimerai en"
-	cont "avoir un!"
+	cont "avoir un !"
 	done
 
 Text_TellMomIfLeaving:
-	text "Salut, <PLAY_G>!"
-	line "Tu part déjà?"
+	text "Salut, <PLAY_G> !"
+	line "Tu part déjà ?"
 
 	para "Tu devrai aller"
 	line "voir ta mère"
 	cont "une dernière"
-	cont "fois"
+	cont "fois."
 	done
 
 Text_ElmDiscoveredNewMon:
-	text "Salut, <PLAYER>!"
+	text "Salut, <PLAYER> !"
 
-	para "Je me souvient"
+	para "Je me souviens"
 	line "quand ton père"
 	para "est parti pour"
 	line "entrainer son"
-	cont "#mon"
+	cont "#mon."
 
-	para "Il était fort!"
+	para "Il était fort !"
 
 	para "Il a capturé un"
 	line "Ursaring enragé."
@@ -344,18 +343,18 @@ Text_ElmDiscoveredNewMon:
 
 Text_FishBeatE4:
 	text "Ouah <PLAYER> tu"
-	line "est le Maitre!"
+	line "est le Maitre !"
 	para "Ton père est si"
-	line "fière de toi."
+	line "fier de toi."
 	para "Tu est bien plus"
 	line "fort qu'il ne"
 	cont "pourrait jamais"
-	cont "être"
+	cont "l'être"
 	done
 
 Text_FisherLossReport:
-	text "Pas comme moi."
-	line "Je perd tout le"
+	text "Pas comme moi,"
+	line "je perd tout le"
 	cont "temps."
 
 	para "Je peut dire que"
@@ -369,7 +368,7 @@ Text_FisherLossReport:
 
 NewBarkTownRivalNotThatOneText:
     text "Tu pense que c'est"
-    line "le plus fort?"
+    line "le plus fort ?"
 
     para "Tu est aussi"
     line "inutile que ce"
@@ -385,21 +384,21 @@ NewBarkTownRivalText1:
 	text "<……>"
 
 	para "Regardes ces"
-	line "#mon!"
+	line "#mon !"
 	done
 
 NewBarkTownRivalText2:
 	text "Salut, ça te dirait"
-	line "De m'aider!"
+	line "De m'aider !"
 
 	para "Apporte moi un de"
 	line "ces #mon."
 
-	para "Soit sur de"
+	para "Sois sûr de"
 	line "prendre le plus"
 	cont "fort."
 
-	para "Maintenant vas-y!"
+	para "Vas-y maintenant!"
 	done
 
 NewBarkTownSignText:
@@ -416,12 +415,12 @@ NewBarkTownPlayersHouseSignText:
 
 NewBarkTownElmsLabSignText:
 	text "Laboratoire du"
-	line "Prof. Orme.
+	line "Prof Orme.
 	done
 
 NewBarkTownElmsHouseSignText:
 	text "Maison du"
-	line "Prof. Orme."
+	line "Prof Orme."
 	done
 
 NeedToGetAPokemon:
@@ -445,7 +444,7 @@ NeedToGetAPokemon2:
 NewBarkTownBlockText:
     text "Je doit récupérer"
     line "un #mon chez"
-    cont "le Prof. Orme!"
+    cont "le Prof Orme!"
     done
 
 ElmsMission:
@@ -458,9 +457,9 @@ ElmsMission:
     end
 
 ElmsMissionText:
-    text "Je devrai aller"
+    text "Je devrais aller"
     line "voir le"
-	cont "Prof. orme !"
+	cont "Prof Orme !"
     done
 
 Movement_NewBarkTownTurnBack:
@@ -498,17 +497,16 @@ NewBarkTownRepelScript:
 	end
 
 NewBarkTownRepulsorText:
-    text "#mon are"
-    line "friends."
+	text "Les #mons
+	line "sont des amis."
 
-    para "They will often"
-    line "come up to greet"
-    cont "you even if"
-    cont "you're in a"
-    cont "hurry."
+	para "Ils viendront"
+	line "souvent te"
+	cont "saluer, même si"
+	cont "tu es pressé."
 
-    para "This will"
-    line "help with that."
+	para "Cela pourra"
+	line "t'aider."
     done
 
 NewBarkTownGotRepelsText:
@@ -518,16 +516,16 @@ NewBarkTownGotRepelsText:
     para "Mais certains"
     line "sont dangereux."
 
-    para "Tu doit toujours"
+    para "Tu dois toujours"
     line "être préparé."
 
-    para "Repulsor tiendra"
-    line "les #mon"
-    cont "faible à distance"
+    para "Les Repulseurs"
+	line "tiendront les" 
+	cont "#mon faible à distance"
 
     para "Tu peut l'allumer"
     line "ou l'éteindre"
-    cont "dans key items."
+    cont "dans Objets Clés."
     done
 
 CrystalScript1:
@@ -614,9 +612,9 @@ NewBarkTownMovement_CrystalApproaches:
     step_end
 
 Crystal1_ChallengeText:
-    text "Tu vient juste de "
+    text "Tu viens juste de"
     line "recevoir un"
-	cont "#mon"
+	cont "#mon."
 
     para "I recently got"
     line "my first #mon"
