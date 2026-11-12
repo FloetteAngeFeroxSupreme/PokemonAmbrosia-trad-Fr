@@ -5,3 +5,4 @@ La rom hack originelle est de DrUltimaMan
 **Contibuteurs actuels :**
 - FloetteAngeFeroxSupreme
 - amiralmonbrave
+- counouvan (bientôt ?)
