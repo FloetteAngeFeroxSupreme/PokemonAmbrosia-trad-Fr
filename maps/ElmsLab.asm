@@ -1216,9 +1216,10 @@ ElmText_ResearchAmbitions:
 
 ElmText_ChooseAPokemon:
 	text "Je veux que tu"
-	line "élève un de ces"
-	papa "#mon contenus"
-	line "dans ces balles."
+	line "entraine un de"
+	papa "ces #mon"
+	line "contenus dans" 
+	cont "ces balles."
 
 	para "Tu sera son"
 	line "premier"
@@ -1361,8 +1362,8 @@ ElmPokeBallText:
 	done
 
 ElmsLabHealingMachineText1:
-	text "I wonder what this"
-	line "does?"
+	text "Que cela peut-il"
+	line "bien faire ?"
 	done
 
 ElmsLabHealingMachineText2:
