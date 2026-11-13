@@ -641,36 +641,40 @@ Crystal1WinsText:
     done
 
 Crystal1_WellDoneText:
-    text "That was fun!"
+    text "C'était cool !"
 
-    para "Now we have to"
-    line "beat all Gym"
-    cont "Leaders."
+    para "Maintenant nous"
+    line "devons battre"
+    cont "tous les"
+	cont "Chanpions d'Arène"
 
-    para "Beat all the Elite"
-    line "Four and Champion."
+    para "Battre tout le"
+    line "Conseil 4 et."
+	cont "le Maitre"
 
-    para "Crush the Hoenn"
-    line "army and save all"
-    cont "Johto and Kanto!"
+    para "Dégomme l'armé"
+    line "d'Hoenn et sauve"
+    cont "Johto et Kanto !"
 
-    para "Race you!"
+    para "On fait la"
+	cont "course ?"
     done
 
 Crystal1_SorryText:
-    text "I'm sorry."
+    text "Je suis désolé."
 
-    para "I hope you find"
-    line "your Dad."
+    para "J'espère que tu"
+    line "Trouvera ton père."
     done
 
 PresentForYouText:
-    text "Oh I got a present"
-    line "for you!"
-    para "With this you can"
-    line "listen to some"
-    cont "music while you"
-    cont "battle."
+    text "J'ai un cadeau"
+    line "pour toi !"
+    para "Avec cela tu "
+    line "pourra écouter la"
+    cont "musique tu veux"
+    cont "pendant les"
+	cont "combats"
     done
 
 Crystal1_GoodLuckText:
