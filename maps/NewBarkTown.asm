@@ -678,13 +678,16 @@ PresentForYouText:
     done
 
 Crystal1_GoodLuckText:
-    text "I'm sure I'll see"
-    line "you along the way."
+    text "Je suis sur que"
+    line "nos chemins se"
+	cont "croiserons de"
+	cont "nouveau."
 
-    para "I'm serious about"
-    line "that race though!"
+    para "Mais je suis"
+    line "sérieux pour"
+	cont "cette course !"
 
-    para "Good luck!"
+    para "Bonne chance !"
     done
 
 NewBarkTownMovement_CrystalLeaves:
@@ -795,15 +798,14 @@ FinalCrystalScript:
 	end
 
 SilverFinalGeneralText:
-    text "This place is"
-    line "peaceful."
+    text "Cette endroit"
+    line "est tranquille."
 
-    para "The rest of the"
-    line "world is frantic"
-    cont "and busy."
+    para "Le reste du monde"
+    line "est frénétique"
+    cont "et occuper."
 
-    para "Like I used to"
-    line "be."
+    para "Comme je l'était"
 
     para "I'm glad <GREEN>"
     line "insisted I come"
