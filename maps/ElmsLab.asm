@@ -1135,22 +1135,24 @@ ElmsLabCynthiaByeElmText:
     done
 
 ElmsLabElmStevenText:
-    text "Glad to be of"
-    line "help!"
+	text "Ravi de pouvoir"
+	line "t'aider !"
 
-    para "The evidence is"
-    line "clear."
+	para "Les peuves sont"
+	line "formelles."
 
-    para "Steven may still"
-    line "be alive."
+	para "Pierre Rochard"
+	line "est très"
+	cont "probalement"
+	cont "encore en vie."
 
-    para "Many in Hoenn"
-    line "remain loyal to"
-    cont "him rather than"
-    cont "Wallace."
+	para "Beaucoup à Hoenn"
+	line "lui sont encore"
+	cont "fidèles plutôt"
+	cont "qu'à Marc."
 
-    para "We must try to"
-    line "find him."
+	para "Nous devons"
+	line "essayer de le"
     done
 
 ElmsLabCynthiaResolveText:
@@ -1367,8 +1369,8 @@ ElmsLabHealingMachineText1:
 	done
 
 ElmsLabHealingMachineText2:
-	text "Would you like to"
-	line "heal your #mon?"
+	text "Veux-tu soigner"
+	line "ton #mon ?"
 	done
 
 ElmAfterTheftText1:
