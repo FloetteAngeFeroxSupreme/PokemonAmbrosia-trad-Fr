@@ -24,81 +24,86 @@ ElmsHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 ElmsWifeText:
-	text "Hello <PLAYER>!"
-	para "Elm is at the lab"
-	line "like he always is."
+	text "Salut <PLAYER> !"
+	para "Le prof Orme est"
+	line "au labo comme"
+	cont "tout le temps."
 
-	para "He doesn't believe"
-	line "in four day weeks,"
-	cont "or even five day"
-	cont "weeks for that"
-	cont "matter."
+	para "Il ne croit pas"
+	line "aux semaines de 4"
+	cont "jours, ni même de"
+	cont "5 jours."
 	done
 
 ElmsSonText:
-	text "When I grow up I'm"
-	line "going to find the"
-	cont "strongest #mon"
-	cont "and capture it!"
-	para "I'm going to beat"
-	line "the Elite Four and"
-	cont "take out an evil"
-	cont "organisation along"
-	cont "the way."
+	text "Quand je serais"
+	line "grand, je"
+	cont "trouverais le"
+	cont "#mon le plus"
+	cont "fort et je le"
+	cont "capturerais !"
+	para "Je battrais le"
+	line "Conseil des 4 et"
+	cont "je chasserais une"
+	cont "organisation de"
+	cont "méchants."
 	done
 
 ElmsHousePCPostWallaceText:
-    text "Emperor Wallace"
-    line "has abdicated"
-    cont "and his location"
-    cont "is unknown."
+	text "L'Empereur Marc a"
+	line "abdiqué mais sa"
+	cont "localisation est"
+	cont "inconnue."
 
-    para "Champion Steven"
-    line "lives and has"
-    cont "assumed command"
-    cont "of the Hoenn army."
+	para "Le Maître Pierre"
+	line "Rochard est en"
+	cont "vie et a pris le"
+	cont "commmendement de"
+	cont "l'armée d'Hoenn."
 
-    para "The war is over."
+	para "la guerre est"
+	line "terminée."
 
-    para "All thanks to an"
-    line "unknown young"
-    cont "trainer."
+	para "Tout cela grâce à"
+	line "un jeune"
+	cont "dresseur inconnu."
 
-    para "The new Champion"
-    line "of Johto."
+	para "Le nouveau Maître"
+	line "de Johto."
 
-    para "Champion <PLAYER>!"
+	para "Maitre <PLAYER> !"
 
-    para "Long live"
-    line "Champion <PLAYER>."
+	para "Longue vie au"
+	line "Maitre <PLAYER> !"
     done
 
 ElmsHousePCText:
-	text "Secret info from"
-	line "the #mon"
-	cont "League."
+	text "Info secrète de"
+	line "la Ligue #mon."
 
-	para "Our spies report"
-	line "most disturbing"
-	cont "news."
+	para "Nos espions nous"
+	line "envoient des"
+	cont "nouvelles très"
+	cont "inquiétantes."
 
-	para "It is believed"
-	line "Emperor Wallace"
-	cont "may now be in"
-	cont "command of the"
-	cont "Hoenn legendary"
-	cont "#mon."
+	para "On pense que"
+	line "l'Empereur Marc"
+	cont "est aux commandes"
+	cont "du #mon"
+	cont "légendaire"
+	cont "d'Hoenn."
 
-	para "If he controls the"
-	line "three forces of"
-	cont "nature."
+	para "S'il maîtrise les"
+	cont "trois forces de"
+	cont "la nature."
 
-	para "There is little"
-	line "hope of stopping"
-	cont "him even if all"
-	cont "region Champions"
-	cont "are permitted to"
-	cont "fight."
+	para "Il y a un mince"
+	line "espoir de"
+	cont "l'arrêter sauf si"
+	cont "les Maîtres de"
+	cont "toutes les autres"
+	cont "régions acceptent"
+	cont "de se battre."
 	done
 
 ElmsEevee:
@@ -110,7 +115,7 @@ ElmsEevee:
     end
 
 ElmsEeveeText:
-    text "Eevee!"
+    text "Evo !"
     done
 
 ElmsHouse_MapEvents:
