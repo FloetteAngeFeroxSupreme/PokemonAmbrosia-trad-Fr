@@ -25,7 +25,7 @@ ElmsHouseBookshelf:
 
 ElmsWifeText:
 	text "Salut <PLAYER> !"
-	para "Le prof Orme est"
+	para "Le Prof Orme est"
 	line "au labo comme"
 	cont "tout le temps."
 
@@ -43,7 +43,7 @@ ElmsSonText:
 	cont "fort et je le"
 	cont "capturerais !"
 	para "Je battrais le"
-	line "Conseil des 4 et"
+	line "Conseil 4 et"
 	cont "je chasserais une"
 	cont "organisation de"
 	cont "méchants."
