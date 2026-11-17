@@ -684,7 +684,7 @@ Crystal1_GoodLuckText:
 	cont "nouveau."
 
     para "Mais je suis"
-    line "sérieux pour"
+    line "sérieuse pour"
 	cont "cette course !"
 
     para "Bonne chance !"
@@ -807,10 +807,11 @@ SilverFinalGeneralText:
 
     para "Comme je l'était"
 
-    para "I'm glad <GREEN>"
-    line "insisted I come"
-    cont "here and stay a"
-    cont "while."
+    para "Je suis heureux"
+    line "que <GREEN> ai"
+    cont "insisté pour que"
+    cont "je vienne et que"
+	cont "je reste un peu.
 
     para "I'm happier than"
     line "I can remember"
