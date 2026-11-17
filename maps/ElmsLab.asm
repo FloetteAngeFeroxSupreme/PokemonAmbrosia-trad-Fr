@@ -1374,53 +1374,60 @@ ElmsLabHealingMachineText2:
 	done
 
 ElmAfterTheftText1:
-	text "<PLAY_G>, this"
-	line "is terrible…"
+	text "<PLAY_G>, c'est"
+	line "terrible…"
 
-	para "So you met the"
-	line "secret Agent."
+	para "Donc tu a"
+	line "rencontré l'agent"
+	cont "secret."
 
-	para "Did he give you"
-	line "anything?"
+	para "T'a-t-il"
+	line "donné quelque"
+	cont "chose ?"
 	done
 
 ElmAfterTheftText2:
-	text "<PLAYER> handed"
-	line "the Mystery Egg to"
-	cont "Prof.Elm."
+	text "<PLAYER> a"
+	line "donné l'Oeuf"*
+	cont "Mystère au Prof"
+	cont "Orme."
 	done
 
 ElmAfterTheftText3:
-	text "This is"
-	line "an Egg of a"
-	cont "Fairy #mon."
+	text "C'est un oeuf de"
+	line "#mon de type"
+	cont "Fée."
 	done
 
 ElmAfterTheftText4:
-	text "Fairy types have"
-	line "few weaknesses"
-	cont "and many good"
-	cont "resistances."
+	text "Le type Fée a peu"
+	line "de faiblesses et"
+	cont "de plutôt bonne"
+	cont "résistances."*
 
-	para "The #mon in"
-	line "this Egg may be"
-	cont "useful."
+	para "Le #mon dans"
+	line "cet oeuf te"
+	cont "pourrait être"
+	cont "utile."
 	done
 
 ElmAfterTheftText5:
-	text "Prof.Oak gave you"
-	line "a #dex?"
+	text "Le Prof Chen t'a"
+	line "donné un"
+	cont "#dex ?"
 
-	para "It is a vital"
-	line "tool for all"
-	cont "trainers."
+	para "C'est un outil"
+	line "vital pour tous"
+	cont "les dresseurs."
 
-	para "It provides info"
-	line "on all #mon."
+	para "Il te donne des"
+	line "informations sur"
+	cont "tous les"
+	cont "#mon."
 
-	para "Including their"
-	line "special ability"
-	cont "and location."
+	para "Il connait les"
+	line "talents et les"
+	cont "localisations."
 
 	para "You are ready now"
 	line "to start your"
