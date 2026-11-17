@@ -813,62 +813,65 @@ SilverFinalGeneralText:
     cont "je vienne et que"
 	cont "je reste un peu.
 
-    para "I'm happier than"
-    line "I can remember"
-    cont "being before."
+    para "Je suis plus"
+    line "heureux que je"
+    cont "n'ai jamais été."
     done
 
 RematchTextSilverFinal:
-    text "However I don't"
-    line "want you becoming"
-    cont "too complacent."
+    text "Cependant, je ne"
+    line "veut pas que tu"
+    cont "devienne trop"
+	cont "complaisant"
 
-    para "How about another"
-    line "battle?"
+    para "Pourquoi pas un"
+    line "autre combat ?"
     done
 
 RematchRefuseTextSilverFinal:
-    text "I guess we both"
-    line "know how it would"
-    cont "go."
+    text "Je pense que nous"
+    line "savons tous les"
+    cont "deux ce qui va"
+	cont "se passé"
     done
 
 SilverFinalPreBattleText:
-    text "Don't you dare"
-    line "hold back!"
+    text "Mais ne retient"
+    line "pas tes coups !"
     done
 
 SilverFinalLossText:
-    text "Some things never"
-    line "change."
+    text "Certaines choses"
+    line "ne changent pas."
     done
 
 SilverFinalWinText:
-    text "You let me win!"
+    text "Tu m'as laissé"
+	line "gagner !"
     done
 
 SilverFinalLoseAfterBattleText:
-    text "You've gone soft"
-    line "it seems."
+    text "On dirai que"
+    line "tu t'es ramolli."
 
-    para "How disappointing."
+    para "Quelle déception."
     done
 
 SilverFinalAfterBattleText:
-    text "I don't even care"
-    line "that I will never"
-    cont "beat you."
+    text "Je ne me soucis"
+    line "pas du fait que"
+    cont "je ne peut pas"
+	cont "te battre."
 
-    para "I am happy with"
-    line "who I am and"
-    cont "what I have"
-    cont "achieved."
+    para "Je suis satisfait"
+    line "de qui je suis et"
+    cont "de ce que j'ai"
+    cont "réussis."
 
-    para "Losing to <GREEN>"
-    line "however..."
+    para "Perdre face à"
+    line "<GREEN> cependant"
 
-    para "That would be"
-    line "different."
+    para "C'est different."
     done
 
 CrystalFinalGeneralText:
