@@ -1,6 +1,6 @@
 _FruitBearingTreeText::
-	text "It's a fruit-"
-	line "bearing tree."
+	text "C'est un arbre à"
+	line "baies."
 	done
 
 _HeyItsFruitText::
